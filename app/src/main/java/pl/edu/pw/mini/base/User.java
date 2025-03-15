@@ -42,6 +42,7 @@ public class User implements Serializable{
     public String getPassword() {
         return password;
     }
+
     public void addSet(SetOfCards set){
         collection.add(set);
     }
