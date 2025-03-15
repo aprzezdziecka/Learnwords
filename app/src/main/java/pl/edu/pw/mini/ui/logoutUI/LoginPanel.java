@@ -1,6 +1,7 @@
 package pl.edu.pw.mini.ui.logoutUI;
 
 import pl.edu.pw.mini.base.session.UserSession;
+import pl.edu.pw.mini.ui.PanelManager;
 
 import javax.swing.*;
 import java.awt.*;
@@ -82,6 +83,7 @@ public class LoginPanel extends JPanel {
                 }
             }
             if (menuUpdate != null) menuUpdate.run();
+            PanelManager.getInstance().showPanel("ConfirmedPanel");
         }else{
             statusLabel.setText("Nieprawidłowa nazwa użytkownika lub hasło.");
         }

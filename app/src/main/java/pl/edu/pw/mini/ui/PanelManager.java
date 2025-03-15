@@ -43,6 +43,7 @@ public class PanelManager {
         panels.put("AddSetTXTPanel", new AddSetTXTPanel());
         panels.put("RemindersPanel", new RemindersPanel());
         panels.put("LearnPanel", new LearnPanel());
+        panels.put("ConfirmedPanel", new ConfirmedPanel());
     }
     public void restart(){
         panels.clear();
