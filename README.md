@@ -40,10 +40,10 @@ Aby skonfigurować dostęp do Google Kalendarza:
 ### Tworzenie zestawów
 
 <p align="center">
-  <img src="Learnwords_images\learnwords (10).png" width="500">
-  <img src="Learnwords_images\learnwords (11).png" width="500">
-  <img src="Learnwords_images\learnwords (14).png" width="500">
-  <img src="Learnwords_images\learnwords (15).png" width="500">
+  <img src="Learnwords_images\learnwords (10).png" width="450">
+  <img src="Learnwords_images\learnwords (11).png" width="450">
+  <img src="Learnwords_images\learnwords (14).png" width="450">
+  <img src="Learnwords_images\learnwords (15).png" width="450">
 </p>
 
 ### Okno nauki
