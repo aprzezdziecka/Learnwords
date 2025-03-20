@@ -10,13 +10,53 @@ Aplikacja została napisana w **Java** z wykorzystaniem **Swing** oraz **Google 
 Aby skonfigurować dostęp do Google Kalendarza:  
 1. Pobierz własny plik **`client_secret.json`** z Google Cloud Console
 2. Umieść go w katalogu **`resources`** projektu.  
-3. Upewnij się, że w klasie **GoogleAuth** ścieżka do pliku jest poprawnie ustawiona.  
+3. Upewnij się, że w klasie **GoogleAuth** ścieżka do pliku jest poprawnie ustawiona.
 
 ## Technologie
 - **Język:** Java  
 - **Biblioteki:** Swing, Google Calendar API  
 
+## Podgląd aplikacji
+### Okno startowe
+<p align="center">
+  <img src="Learnwords_images\learnwords (3).png" width="500">
+</p>
 
+### Ekran logowania
+
+<p align="center">
+  <img src="Learnwords_images\learnwords (4).png" width="500">
+   <img src="Learnwords_images\learnwords (7).png" width="500">
+  <img src="Learnwords_images\learnwords (5).png" width="500">
+</p>
+
+### Konto
+
+<p align="center">
+  <img src="Learnwords_images\learnwords (8).png" width="500">
+   <img src="Learnwords_images\learnwords (9).png" width="500">
+</p>
+
+### Tworzenie zestawów
+
+<p align="center">
+  <img src="Learnwords_images\learnwords (10).png" width="500">
+  <img src="Learnwords_images\learnwords (11).png" width="500">
+  <img src="Learnwords_images\learnwords (14).png" width="500">
+  <img src="Learnwords_images\learnwords (15).png" width="500">
+</p>
+
+### Okno nauki
+<p align="center">
+  <img src="Learnwords_images\learnwords (12).png" width="500">
+</p>
+<p align="center">
+  <img src="Learnwords_images\learnwords (13).png" width="300">
+  <img src="Learnwords_images\learnwords (1).png" width="300">
+</p>
+<p align="center">
+  <img src="Learnwords_images\learnwords (2).png" width="500">
+</p>
 
 **Autor**: Alicja Przeździecka
 
@@ -38,6 +78,48 @@ To configure access to Google Calendar:
 
 ## Technologies
 - **Language:** Java  
-- **Libraries:** Swing, Google Calendar API  
+- **Libraries:** Swing, Google Calendar API
+
+## Application preview
+### Start window
+<p align="center">
+  <img src="Learnwords_images\learnwords (3).png" width="500">
+</p>
+
+### Log in window
+
+<p align="center">
+  <img src="Learnwords_images\learnwords (4).png" width="500">
+   <img src="Learnwords_images\learnwords (7).png" width="500">
+  <img src="Learnwords_images\learnwords (5).png" width="500">
+</p>
+
+### Account
+
+<p align="center">
+  <img src="Learnwords_images\learnwords (8).png" width="500">
+   <img src="Learnwords_images\learnwords (9).png" width="500">
+</p>
+
+### Creating new sets
+
+<p align="center">
+  <img src="Learnwords_images\learnwords (10).png" width="500">
+  <img src="Learnwords_images\learnwords (11).png" width="500">
+  <img src="Learnwords_images\learnwords (14).png" width="500">
+  <img src="Learnwords_images\learnwords (15).png" width="500">
+</p>
+
+### Study window
+<p align="center">
+  <img src="Learnwords_images\learnwords (12).png" width="800">
+</p>
+<p align="center">
+  <img src="Learnwords_images\learnwords (13).png" width="200">
+  <img src="Learnwords_images\learnwords (1).png" width="200">
+</p>
+<p align="center">
+  <img src="Learnwords_images\learnwords (2).png" width="500">
+</p>
 
 **Author**: Alicja Przeździecka
